@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Architecture Visualizer",
+  "description": "An interactive, animated visualization of the Nexus data processing platform, featuring data flow simulation and detailed architectural component analysis.",
+  "requestFramePermissions": []
+}
